@@ -1,0 +1,17 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "description": "A server with express-npm",
+  "main": "index.js",
+  "author": "Elijah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
